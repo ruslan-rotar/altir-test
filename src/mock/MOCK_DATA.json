@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "sender": "Angelo Crebo",
+    "receiver": "Klaus Lasseter",
+    "createdAt": "01-Jan-2023",
+    "description": "Mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat"
+  },
+  {
+    "id": 2,
+    "sender": "Gertruda Catling",
+    "receiver": "Sanderson Stearn",
+    "createdAt": "02-Apr-2023",
+    "description": "Erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo"
+  },
+  {
+    "id": 3,
+    "sender": "Suzi McKelloch",
+    "receiver": "Tarrah Lambshine",
+    "createdAt": "04-Apr-2023",
+    "description": "Dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse"
+  },
+  {
+    "id": 4,
+    "sender": "Cariotta Meader",
+    "receiver": "Abra O' Markey",
+    "createdAt": "15-Feb-2023",
+    "description": "Id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit"
+  },
+  {
+    "id": 5,
+    "sender": "Lowell Wagge",
+    "receiver": "Jane Doe",
+    "createdAt": "23-Feb-2023",
+    "description": "Pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac"
+  },
+  {
+    "id": 6,
+    "sender": "Mohammed Soltan",
+    "receiver": "Wendi Hartop",
+    "createdAt": "11-Feb-2023",
+    "description": "Porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse"
+  },
+  {
+    "id": 7,
+    "sender": "Louella Grocott",
+    "receiver": "Idalia Starrs",
+    "createdAt": "21-Mar-2023",
+    "description": "Pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc"
+  },
+  {
+    "id": 8,
+    "sender": "Sigismundo Skelbeck",
+    "receiver": "Mildred Puig",
+    "createdAt": "29-Jan-2023",
+    "description": "Risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus"
+  },
+  {
+    "id": 9,
+    "sender": "Laurens Lynes",
+    "receiver": "Jane Doe",
+    "createdAt": "27-Feb-2023",
+    "description": "Phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio"
+  },
+  {
+    "id": 10,
+    "sender": "Warren Chisolm",
+    "receiver": "Inglebert Georgescu",
+    "createdAt": "25-Feb-2023",
+    "description": "Et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non"
+  }
+]
