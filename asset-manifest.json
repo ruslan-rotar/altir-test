@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/altir-test/static/css/main.1a107b0d.chunk.css",
+    "main.js": "/altir-test/static/js/main.aaf04e1b.chunk.js",
+    "main.js.map": "/altir-test/static/js/main.aaf04e1b.chunk.js.map",
+    "runtime-main.js": "/altir-test/static/js/runtime-main.f1e374e4.js",
+    "runtime-main.js.map": "/altir-test/static/js/runtime-main.f1e374e4.js.map",
+    "static/js/2.17f850a7.chunk.js": "/altir-test/static/js/2.17f850a7.chunk.js",
+    "static/js/2.17f850a7.chunk.js.map": "/altir-test/static/js/2.17f850a7.chunk.js.map",
+    "static/js/3.9434cda0.chunk.js": "/altir-test/static/js/3.9434cda0.chunk.js",
+    "static/js/3.9434cda0.chunk.js.map": "/altir-test/static/js/3.9434cda0.chunk.js.map",
+    "index.html": "/altir-test/index.html",
+    "static/css/main.1a107b0d.chunk.css.map": "/altir-test/static/css/main.1a107b0d.chunk.css.map",
+    "static/js/2.17f850a7.chunk.js.LICENSE.txt": "/altir-test/static/js/2.17f850a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1e374e4.js",
+    "static/js/2.17f850a7.chunk.js",
+    "static/css/main.1a107b0d.chunk.css",
+    "static/js/main.aaf04e1b.chunk.js"
+  ]
+}
